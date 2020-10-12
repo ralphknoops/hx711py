@@ -1,0 +1,2 @@
+SELECT get_ddl('view','DEV_ENT_DWH_DB.ANALYTICS.AP');
+SELECT get_ddl('view','DEV_ENT_DWH_DB.ANALYTICS.AR');
